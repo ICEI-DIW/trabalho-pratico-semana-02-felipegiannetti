@@ -42,3 +42,7 @@
     margin: 0;
     font-size: 15px;
 }
+
+.lista-bolinha {
+    list-style-type: disc; 
+}
