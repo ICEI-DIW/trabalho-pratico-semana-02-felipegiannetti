@@ -11,6 +11,8 @@
 }
 
 .header > h1 {
+    color:darkblue;
+    font-style: italic;
     text-align: center;
     top: 0px;
     position: absolute; 
@@ -19,6 +21,7 @@
 }
 
 .header > h4 {
+    text-decoration: overline;
     text-align: center;
     top: 40px;
     position: absolute; 
@@ -46,3 +49,20 @@
 .lista-bolinha {
     list-style-type: disc; 
 }
+
+body {
+    background-color: bisque;
+}
+
+.img-puc > img{
+    position: absolute;
+    margin-left: 750px;
+    margin-top: -430px;
+    width: 150px; 
+    height: 150px; 
+}
+
+li {
+    max-width: 550px;
+}
+

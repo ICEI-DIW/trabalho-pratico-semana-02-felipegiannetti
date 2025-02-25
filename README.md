@@ -3,7 +3,7 @@
 # template-diw-20251-semana-02
 
 ## Informações Gerais
-- Nome: 
-- Matricula:
+- Nome: Felipe Giannetti Fontenelle
+- Matricula: 844191
 
 ## Print da tela da página criad
